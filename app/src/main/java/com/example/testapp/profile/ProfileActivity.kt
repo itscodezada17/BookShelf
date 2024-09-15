@@ -6,6 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.example.testapp.auth.logIn.LogInActivity
 import com.example.testapp.databinding.ActivityProfileBinding
+import com.example.testapp.utils.shortToast
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -32,6 +33,13 @@ class ProfileActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+        binding.deleteBtn.setOnClickListener {
+            shortToast("Not Implemented Yet")
+            // Just have to call delete method of user dao using repo for profile activity
+        }
+
+
     }
 
     private fun setUi(email: String, name: String, country: String) {

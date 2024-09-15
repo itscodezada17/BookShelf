@@ -30,7 +30,7 @@ class CountrtyListAdapter(
     inner class CityListViewHolder(private val binding: FragmentCountryListItemBinding) : RecyclerView.ViewHolder(binding.root){
         fun bind(country: String) {
             binding.country = country
-            binding.root.setOnClickListener {
+            binding.countryName.setOnClickListener {
                 callBack.updateCountry(country)
                 countrtyListFragment.dismiss()
             }

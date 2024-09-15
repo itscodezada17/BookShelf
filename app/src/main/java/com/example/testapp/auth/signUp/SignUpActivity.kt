@@ -96,7 +96,7 @@ class SignUpActivity : AppCompatActivity() {
         viewModel.countryCurrentLivedata.observe(this){
             it?.let { country->
                 viewModel.countryCurrent = country.country?:""
-                binding.editTextCountry.setText(viewModel.countryMapLivedata.value?.get(country.country?:"IN"))
+                binding.editTextCountry.setText(viewModel.countryCurrent)
             }
         }
 

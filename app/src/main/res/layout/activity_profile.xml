@@ -39,16 +39,17 @@
         android:textColor="@color/black"
         app:layout_constraintTop_toBottomOf="@id/toolbar"
         app:layout_constraintLeft_toLeftOf="parent"/>
+
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="3dp"
-        android:id="@+id/nameT"
-        android:text="@{userEmail}"
+        android:id="@+id/emailT"
+        android:text="@{userName}"
         android:textSize="15dp"
         android:textColor="@color/colorPrimaryDark"
-        app:layout_constraintTop_toTopOf="@id/email"
-        app:layout_constraintLeft_toRightOf="@id/email"/>
+        app:layout_constraintTop_toTopOf="@id/name"
+        app:layout_constraintLeft_toRightOf="@id/name"/>
 
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_marginTop="10dp"
@@ -64,12 +65,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="3dp"
-        android:id="@+id/emailT"
-        android:text="@{userName}"
+        android:id="@+id/nameT"
+        android:text="@{userEmail}"
         android:textSize="15dp"
         android:textColor="@color/colorPrimaryDark"
-        app:layout_constraintTop_toTopOf="@id/name"
+        app:layout_constraintTop_toTopOf="@id/email"
         app:layout_constraintLeft_toRightOf="@id/email"/>
+
 
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_marginTop="10dp"
@@ -84,8 +86,8 @@
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/countryT"
-        android:layout_width="2dp"
-        android:layout_height="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="3dp"
         android:text="@{userCountry}"
         android:textColor="@color/colorPrimaryDark"
