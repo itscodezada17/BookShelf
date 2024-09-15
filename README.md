@@ -44,10 +44,10 @@ It is a BookShelf Android application, hav following features.
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/wishlist.jpg" alt="ss2">
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/lottie2.jpg" alt="ss2">
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/countryList.jpg" alt="ss2">
-<img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/Profile.jpg" alt="ss2">
+<img height=400  src="https://drive.google.com/file/d/13cHrspI4P-viKBGFQYJcV1FdQncF94yL/view?usp=sharing" alt="ss2">
 
   
 # APK 
-  APK - <a href="https://github.com/itscodezada17/BookShelf/blob/master/bookShelf.apk" alt="APK Link"><img src="https://img.shields.io/badge/APK-DownLoadApk-yellowgreen"></a>
+  APK - <a href="https://drive.google.com/file/d/1WJlssBSukoJ12gOI74HBp4tHzr0Uun5F/view?usp=sharing" alt="APK Link"><img src="https://img.shields.io/badge/APK-DownLoadApk-yellowgreen"></a>
   
   Click on the button above and download from there.
