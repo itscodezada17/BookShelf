@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="list_of_users">List Of Users</string>
+    <string name="wish_list_items">WishLists</string>
+    <string name="book_items">Books</string>
+
+
+    <!-- LogIn/ SignUp Strings  -->
+    <string name="signup">SignUp</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Log In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+    <string name="existing_user">"Already \nhave an \nAccount?"</string>
+    <string name="login">LogIn</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up_header">Here’s\nyour first\nstep with \nus!</string>
+</resources>
