@@ -44,7 +44,7 @@ It is a BookShelf Android application, hav following features.
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/wishlist.jpg" alt="ss2">
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/lottie2.jpg" alt="ss2">
 <img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/countryList.jpg" alt="ss2">
-<img height=400  src="https://drive.google.com/file/d/13cHrspI4P-viKBGFQYJcV1FdQncF94yL/view?usp=sharing" alt="ss2">
+<img height=400  src="https://github.com/itscodezada17/BookShelf/blob/master/profileSection.jpg" alt="ss2">
 
   
 # APK 
